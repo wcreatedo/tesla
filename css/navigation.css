@@ -63,7 +63,7 @@
   backdrop-filter: blur(1rem);
   transition: display 0.4s ease;
 }
-
+/* 네비게이션에서 is_active틀래스 있으면 보이게 한다 */
 .blur_overlay.is--active {
   display: block;
 }

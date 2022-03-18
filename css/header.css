@@ -50,6 +50,7 @@
 
 .header_nav_btn.menu_btn {
   display: inline-block;
+  background: rgba(0, 0, 0, 0.05);
 }
 
 .header_middle .header_nav_btn {

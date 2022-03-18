@@ -90,3 +90,8 @@
   background: rgba(255, 255, 255, 0.65);
   color: var(--primary-color);
 }
+
+.section_content_subtitle a {
+  text-decoration: underline;
+  font-size: 17px;
+}
